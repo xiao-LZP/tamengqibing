@@ -82,19 +82,17 @@ node server.js
 
 ![](https://github.com/13025214712/tamengqibing/blob/master/screenshots/%E5%9B%BE%E7%89%871.png)
 
-![](https://github.com/13025214712/tamengqibing/blob/master/screenshots/%E5%9B%BE%E7%89%872.png)
-
-![](https://github.com/13025214712/tamengqibing/blob/master/screenshots/%E5%9B%BE%E7%89%873.png)
-
 ![](https://github.com/13025214712/tamengqibing/blob/master/screenshots/%E5%9B%BE%E7%89%874.png)
 
 ![](https://github.com/13025214712/tamengqibing/blob/master/screenshots/%E5%9B%BE%E7%89%875.png)
 
 ![](https://github.com/13025214712/tamengqibing/blob/master/screenshots/%E5%9B%BE%E7%89%876.png)
 
-![](https://github.com/13025214712/tamengqibing/blob/master/screenshots/%E5%9B%BE%E7%89%877.png)
+![](https://github.com/13025214712/tamengqibing/blob/master/screenshots/%E5%9B%BE%E7%89%872.png)
 
-![](https://github.com/13025214712/tamengqibing/blob/master/screenshots/%E5%9B%BE%E7%89%878.png)
+![](https://github.com/13025214712/tamengqibing/blob/master/screenshots/%E5%9B%BE%E7%89%873.png)
+
+![](https://github.com/13025214712/tamengqibing/blob/master/screenshots/%E5%9B%BE%E7%89%877.png)
 
 ![](https://github.com/13025214712/tamengqibing/blob/master/screenshots/%E5%9B%BE%E7%89%879.png)
 
