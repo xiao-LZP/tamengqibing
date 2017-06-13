@@ -3,7 +3,8 @@
 
 
 ## 无需安装， 打开即可开玩
-https://rawcdn.githack.com/13025214712/tamengqibing/master/%E5%A1%94%E8%90%8C%E5%A5%87%E5%85%B5.html（因游戏太大，尚未添加游戏加载进度，所以可能好一会看到的是空白，望见谅）
+https://rawcdn.githack.com/13025214712/tamengqibing/master/%E5%A1%94%E8%90%8C%E5%A5%87%E5%85%B5.html
+（因游戏太大，尚未添加游戏加载进度，所以可能好一会看到的是空白，望见谅）
  
 ## 项目效果图
 
